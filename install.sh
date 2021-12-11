@@ -9,3 +9,4 @@ pip3 install wheel && pip3 install .
 pip3 install chia-dev-tools --no-deps
 
 deactivate
+sh install.sh
